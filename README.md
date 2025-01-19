@@ -1,7 +1,4 @@
 # Text-to-Speech Converter
-
-<div align="center">
-  <img alt="Logo" src="https://github.com/eldoJr/eldomacuacua.github.io/blob/main/public/icons/icon-256x256.png" width="100" />
 </div>
 
 A modern **Text-to-Speech Converter** built using HTML, CSS, and JavaScript. This application allows users to input text, which is then converted into speech using the browser's SpeechSynthesis API.
